@@ -1,0 +1,19 @@
+.tablecontent__main {
+    padding: 2.5rem 5rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.btn__style {
+    color: #fff;
+    background-color: rgba(128, 23, 226, 0.685);
+}
+
+.tablecontent__editdelete {
+    padding: 5px;
+}
+
+.iconsStyle {
+    padding: 0 10px;
+}
+

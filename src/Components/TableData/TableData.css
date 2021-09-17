@@ -1,0 +1,30 @@
+.table__main {
+    padding: 0 5rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.tabledata__tablerow {
+    background-color: #F2F2F2;
+    font-size: 1rem;
+}
+
+.accessStl1 {
+    background-color: #BEE7CF;
+    border-style: solid;
+    border-color: #5FC389;
+    color: #27AE60;
+    border-radius: 100px;
+    padding: 5px;
+    max-width: 80%;
+}
+
+.accessStl2 {
+    background-color: #FFB5B5;
+    border-style: solid;
+    border-color: #FF5E5E;
+    color: #FF0808;
+    border-radius: 100px;
+    padding: 5px;
+    max-width: 80%;
+}

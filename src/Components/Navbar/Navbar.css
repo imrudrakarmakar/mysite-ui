@@ -1,0 +1,44 @@
+.navbar__main {
+    height: 70px;
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1); */
+}
+
+.navbar__logo {
+    height: 60px;
+    width: 200px;
+    margin: 10px;
+}
+
+.logo__prop {
+    max-width: 200px;
+}
+
+.navbar__usersection {
+    display: flex;
+    flex-direction: row;
+    text-align: right;
+    padding: 17px;
+    text-align: center;
+}
+
+.navbar__usericon {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+.navbar__usericon p {
+    padding: 5px;
+}
+
+.navbar__notification {
+    padding-left: 25px;
+}
+.navbar__faq {
+    padding: 0 25px 0 10px;
+}
